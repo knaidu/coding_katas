@@ -65,8 +65,6 @@ class LinkedList
       slow_ptr = slow_ptr.next
     end
 
-
-
     return true
   end
 end
